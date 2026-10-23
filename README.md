@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-10-23` |
+| **3** | 0 | 3 | 0 | `2026-10-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `-` |
-| 0002 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0001 | [139. Aggressive Cows](./DSA/General/aggressive-cows) | [CPP](./DSA/General/aggressive-cows/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0002 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `-` |
+| 0003 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
 
 ---
 
