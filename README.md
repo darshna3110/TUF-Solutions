@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-22` |
+| **2** | 0 | 2 | 0 | `2026-10-23` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-22` |
+| 0001 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `-` |
+| 0002 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
 
 ---
 
