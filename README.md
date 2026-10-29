@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-25` |
+| **5** | 0 | 5 | 0 | `2026-10-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -20,6 +20,7 @@
 | 0002 | [154. Book Allocation Problem](./DSA/General/book-allocation-problem) | [CPP](./DSA/General/book-allocation-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0003 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `-` |
 | 0004 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0005 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
 
 ---
 
