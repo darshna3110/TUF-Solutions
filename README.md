@@ -6,23 +6,24 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **7** | 0 | 7 | 0 | `2026-10-30` |
+| **8** | 0 | 8 | 0 | `2026-10-30` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (7)
+### DSA (8)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [139. Aggressive Cows](./DSA/General/aggressive-cows) | [CPP](./DSA/General/aggressive-cows/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
 | 0002 | [154. Book Allocation Problem](./DSA/General/book-allocation-problem) | [CPP](./DSA/General/book-allocation-problem/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0003 | [297. Capacity to Ship Packages Within D Days](./DSA/General/capacity-to-ship-packages-within-d-days) | [CPP](./DSA/General/capacity-to-ship-packages-within-d-days/solution.cpp) | ⚪ Unspecified | `General` | `-` |
-| 0004 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
-| 0005 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
-| 0006 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0007 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0004 | [382. Find Peak Element - II](./DSA/General/find-peak-element-ii) | [CPP](./DSA/General/find-peak-element-ii/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-30` |
+| 0005 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
+| 0006 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
+| 0007 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0008 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
 
 ---
 
