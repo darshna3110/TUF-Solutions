@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 0 | 10 | 0 | `2026-11-03` |
+| **11** | 0 | 11 | 0 | `2026-11-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -24,8 +24,9 @@
 | 0006 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
 | 0007 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-03` |
 | 0008 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
-| 0009 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0010 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0009 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-03` |
+| 0010 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0011 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
 
 ---
 
