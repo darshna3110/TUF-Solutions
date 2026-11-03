@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **11** | 0 | 11 | 0 | `2026-11-03` |
+| **12** | 0 | 12 | 0 | `2026-11-03` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (11)
+### DSA (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -22,11 +22,12 @@
 | 0004 | [116. Find missing number](./DSA/General/find-missing-number) | [CPP](./DSA/General/find-missing-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-02` |
 | 0005 | [382. Find Peak Element - II](./DSA/General/find-peak-element-ii) | [CPP](./DSA/General/find-peak-element-ii/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-30` |
 | 0006 | [367. Kth Missing Positive Number](./DSA/General/kth-missing-positive-number) | [CPP](./DSA/General/kth-missing-positive-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-23` |
-| 0007 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-03` |
-| 0008 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
-| 0009 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-03` |
-| 0010 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0011 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0007 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-03` |
+| 0008 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-11-03` |
+| 0009 | [27. Median of 2 sorted arrays](./DSA/Heaps/median-of-2-sorted-arrays) | [CPP](./DSA/Heaps/median-of-2-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Heaps` | `2026-10-29` |
+| 0010 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-11-03` |
+| 0011 | [325. Search in 2D matrix - II](./DSA/Arrays/search-in-2d-matrix-ii) | [CPP](./DSA/Arrays/search-in-2d-matrix-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0012 | [77. Search in a 2D Matrix](./DSA/Arrays/search-in-a-2d-matrix) | [CPP](./DSA/Arrays/search-in-a-2d-matrix/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
 
 ---
 
